@@ -1,4 +1,4 @@
-from aiogram import Bot, Dispatcher, types, executor
+from alogram import Bot, Dispatcher, types, executor
 
 bot = Bot(token='6380274513:AAGTSYZHC3LXRwTH_G51d46nrfrkgLNjaE4')
 dp = Dispatcher(bot)
